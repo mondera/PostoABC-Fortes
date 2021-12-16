@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/14 20:58:57.000.900,=C:\Users\Eraldo\Documents\Embarcadero\Studio\Projects\Unit12.pas</Transaction>
+    <Transaction>2021/12/14 20:59:31.000.212,E:\ABC\unitPrincipal.dfm=C:\Users\Eraldo\Documents\Embarcadero\Studio\Projects\Unit12.dfm</Transaction>
+    <Transaction>2021/12/14 20:59:31.000.212,E:\ABC\unitPrincipal.pas=C:\Users\Eraldo\Documents\Embarcadero\Studio\Projects\Unit12.pas</Transaction>
+    <Transaction>2021/12/14 21:00:15.000.066,E:\ABC\PostoABC.dproj=C:\Users\Eraldo\Documents\Embarcadero\Studio\Projects\Project12.dproj</Transaction>
+    <Transaction>2021/12/14 21:01:17.000.342,=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:01:35.000.621,E:\ABC\unitDM.dfm=E:\ABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 21:01:35.000.621,E:\ABC\unitDM.pas=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:19:09.000.275,=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:19:26.000.057,E:\ABC\unitHelpers.pas=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:46:35.000.710,=E:\ABC\ufrmReport.pas</Transaction>
+    <Transaction>2021/12/14 21:49:57.000.904,E:\ABC\unitReport.dfm=E:\ABC\ufrmReport.dfm</Transaction>
+    <Transaction>2021/12/14 21:49:57.000.904,E:\ABC\unitReport.pas=E:\ABC\ufrmReport.pas</Transaction>
+    <Transaction>2021/12/15 10:49:52.000.834,=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 10:50:09.000.906,E:\ABC\unitSplasForm.dfm=E:\ABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/15 10:50:09.000.906,E:\ABC\unitSplasForm.pas=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 11:07:47.000.012,E:\ABC\unitSplashScreen.dfm=E:\ABC\unitSplasForm.dfm</Transaction>
+    <Transaction>2021/12/15 11:07:47.000.012,E:\ABC\unitSplashScreen.pas=E:\ABC\unitSplasForm.pas</Transaction>
+    <Transaction>2021/12/15 15:27:45.000.915,=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 15:28:00.000.666,E:\ABC\uKeyPress.pas=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 17:23:18.000.589,=E:\ABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 17:23:29.000.657,E:\ABC\unitCompsABC.pas=E:\ABC\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
